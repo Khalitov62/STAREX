@@ -1,0 +1,27 @@
+.query, .buttons {
+  float: left;
+}
+
+.text1, .text2, .text3, .bText1, .bText2, .cText1, .cText2 {
+  display: none;
+  text-align: center;
+}
+
+.box2, .box3 {
+  display: none;
+}
+
+.box2, .box3, .box1 {
+  cursor: pointer;
+  text-align: center;
+}
+
+.borderbtn {
+  border-bottom: 2px solid #3c3cf3;
+}
+
+.navbar {
+  background-color: cornflowerblue !important;
+  color: black !important;
+}
+/*# sourceMappingURL=style.css.map */

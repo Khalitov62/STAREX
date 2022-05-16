@@ -1,0 +1,25 @@
+.query,.buttons{
+    float: left;
+}
+
+.text1,.text2,.text3,.bText1,.bText2,.cText1,.cText2{
+    display: none;
+    text-align: center;
+
+}
+.boxone,.boxthree{
+    display: none;
+
+}
+.boxtwice,.boxthree,.boxone{
+    cursor: pointer;
+    text-align: center;
+}
+
+
+.borderbtn{
+    border-bottom:2px solid rgb(60, 60, 243);
+}
+
+
+
